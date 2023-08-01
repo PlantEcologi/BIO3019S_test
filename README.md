@@ -7,7 +7,3 @@ Feel free to add your (polite) message of joy and relief below:
 
 - Hello, I am Sebastian de Klerk and I have made it this far!
 
-install.packages("usethis")
-usethis::create_github_token()
-gitcreds::gitcreds_set()
-
