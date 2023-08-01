@@ -13,4 +13,6 @@ Hello, I am Ashleigh and I have made it this far!
 
 Hello, I am Muano and I have made it this far!!!
 
+Hi, I am Hope and I’ve made it this far!!!
+
 Hi, this is Sian and I've made it this far!!!
