@@ -7,4 +7,6 @@ Feel free to add your (polite) message of joy and relief below:
 
 Hi, I (Jess Devine  - as the name suggests... maybe I should have used something more anonymous) made it!
 
+Hey, This is Tim and this has taken surprisingly long
+
 Hi. This is Mishka and I got through it! Hopefully my auth works next time!
