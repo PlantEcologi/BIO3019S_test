@@ -6,4 +6,4 @@ If you are reading this message in RStudio then everything is working!!!
 Feel free to add your (polite) message of joy and relief below:
 
 Hi, it's Jenna here and I've made it this far!!!
-Hi, 2024 
+# Hi, 2024 
