@@ -12,3 +12,5 @@ Hello! I, Bokamoso, have came, saw and conquered!
 Hey, This is Tim and this has taken surprisingly long
 
 Hi. This is Mishka and I got through it! Hopefully my auth works next time!
+
+Hi, this is Delene, and I managed to follow the steps up to this point! Yay!
