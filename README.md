@@ -6,3 +6,4 @@ If you are reading this message in RStudio then everything is working!!!
 Feel free to add your (polite) message of joy and relief below:
 
 Oh my goodness this took me forever, but it's finally working now! ~ Emma-Beth
+
