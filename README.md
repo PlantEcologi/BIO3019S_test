@@ -10,3 +10,5 @@ Oh my goodness this took me forever, but it's finally working now! ~ Emma-Beth
 I think I deserve a coffee for getting this to work! ~ Liam
 
 :) - Hannah 
+
+It seems my incense placated the machine spirits, for now. ~ Jonathan
